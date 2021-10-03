@@ -1,1 +1,1 @@
-# Hakathon-classification-model
+# Hackathon-classification-model
